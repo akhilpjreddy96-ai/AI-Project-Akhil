@@ -1,0 +1,6 @@
+{
+  "name": "WealthWise AI",
+  "description": "India's Intelligent Financial Mentor: Track, Save, Invest, and Grow with personalized AI planning, startup mentorship, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
